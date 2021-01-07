@@ -277,7 +277,7 @@ nav.fixed.desk {
   animation: popDown 0.5s;
 }
 nav .link-wrap {
-  background: #333;
+  background: #4c0c42;
   height: 0;
   max-width: 1200px;
   overflow: hidden;
